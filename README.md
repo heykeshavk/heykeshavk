@@ -4,7 +4,7 @@
 
 ### `Data Science & ML Enthusiast` • `Founder @ UGJAPED`
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2F81F7&center=true&vCenter=true&width=650&lines=Building+real-world+products+%F0%9F%9A%80;Data+Science+%7C+Machine+Learning+%F0%9F%A4%96;Backend+Development+with+Python+%F0%9F%90%8D;Building+UGJAPED+%F0%9F%8C%B1;Learn+%E2%86%92+Build+%E2%86%92+Break+%E2%86%92+Fix+%E2%86%92+Repeat." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2F81F7&center=true&vCenter=true&width=650&lines=I Build+I Learn+I Solve+%F0%9F%9A%80;Data+Science+%7C+Machine+Learning+%F0%9F%A4%96;Backend+Development+with+Python+%F0%9F%90%8D;Building+UGJAPED+%F0%9F%8C%B1;Learn+%E2%86%92+Build+%E2%86%92+Break+%E2%86%92+Fix+%E2%86%92+Repeat." alt="Typing SVG" />
 
 <br>
 
