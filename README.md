@@ -1,10 +1,10 @@
 <div align="center">
 
-# 👋 Hey, I'm Keshav Kumar
+# KESHAV KUMAR
 
-### `Data Science & ML Enthusiast` • `Founder @ UGJAPED`
+### `I Learn. I Build. I Solve. I Repeat.`
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2F81F7&center=true&vCenter=true&width=650&lines=I Build+I Learn+I Solve+%F0%9F%9A%80;Data+Science+%7C+Machine+Learning+%F0%9F%A4%96;Backend+Development+with+Python+%F0%9F%90%8D;Building+UGJAPED+%F0%9F%8C%B1;Learn+%E2%86%92+Build+%E2%86%92+Break+%E2%86%92+Fix+%E2%86%92+Repeat." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&pause=1200&color=2F81F7&center=true&vCenter=true&width=700&lines=Data+Science+%7C+Machine+Learning;Backend+Engineering+with+Python;Founder+%40+UGJAPED;Turning+problems+into+products;Learn.+Build.+Solve.+Repeat." alt="Typing SVG" />
 
 <br>
 
@@ -12,148 +12,176 @@
 <img src="https://img.shields.io/github/followers/heykeshavk?label=Followers&style=for-the-badge&logo=github">
 </a>
 
-<a href="https://github.com/heykeshavk">
-<img src="https://img.shields.io/github/stars/heykeshavk?label=Stars&style=for-the-badge&logo=github">
-</a>
-
 <a href="https://ugjaped.com">
-<img src="https://img.shields.io/badge/Building-UGJAPED-2ea44f?style=for-the-badge">
+<img src="https://img.shields.io/badge/FOUNDER-UGJAPED-111111?style=for-the-badge">
 </a>
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## ⚡ THE MINDSET
 
-I'm an **MCA Data Science student at CGC University Mohali, in association with IBM**, with a strong interest in **Data Science, Machine Learning, Backend Development and real-world product building**.
+> **I don't just learn technology.
+> I use it to turn ideas into something real.**
 
-I enjoy taking an idea from:
+I'm an **MCA Data Science student**, developer and founder building at the intersection of **Data, Technology and Business**.
 
-**Problem → Data → Logic → API → Product 🚀**
+I learn by building.
+I build by solving.
+And every problem becomes the next thing I learn.
 
-Currently, I'm working on **UGJAPED**, a hyperlocal plant-based marketplace, while continuously improving my skills in Python, Machine Learning and backend engineering.
+```text
+LEARN
+   ↓
+THINK
+   ↓
+BUILD
+   ↓
+BREAK
+   ↓
+SOLVE
+   ↓
+REPEAT
+```
 
 ---
-
-## 🌱 UGJAPED — My Main Project
-
-<div align="center">
 
 # 🌱 UGJAPED
 
-### India's Premium Plant Ecosystem
+### My biggest build. My biggest learning curve.
 
-**A hyperlocal plant-based hybrid marketplace connecting local nurseries, shops, buyers, resellers and delivery partners.**
+**UGJAPED** is a hyperlocal plant-based marketplace designed to connect:
 
-<a href="https://ugjaped.com">
-<img src="https://img.shields.io/badge/🌐_Visit-UGJAPED-2ea44f?style=for-the-badge">
-</a>
+`Nurseries → Shops → Customers → Resellers → Riders`
 
-</div>
+The idea started with a simple question:
 
-### 🚀 What I'm Building
+> **"Why can't buying and selling plants be as easy as ordering anything else online?"**
 
-* 🏪 **Zero-inventory marketplace**
-* 🌱 Local nursery & shop inventory
-* ⚡ Same-day hyperlocal delivery
-* 🔄 Peer-to-peer plant resale
-* 🛵 Rider delivery ecosystem
-* 💰 Dynamic pricing & commission logic
-* 🔐 Role-Based Access Control
-* 📦 Scalable PostgreSQL architecture
-* ☁️ Cloud-based image storage
-* 🧑‍🌾 Future gardener/home-service ecosystem
+From that question came an entire ecosystem.
 
-### ⚙️ Backend Architecture
+### The Vision
 
 ```text
-                    UGJAPED
-                       │
-                       ▼
-                  FastAPI API
-                       │
-          ┌────────────┼────────────┐
-          ▼            ▼            ▼
-      PostgreSQL    Cloudinary    Auth/RBAC
-       NeonDB
-          │
-          ▼
-    Business Logic
-          │
-    ┌─────┼─────┐
-    ▼     ▼     ▼
- Orders  Wallet  Resale
-    │     │       │
-    └─────┼───────┘
-          ▼
-    Delivery System
-          │
-          ▼
-      Rider Network
+LOCAL INVENTORY
+       ↓
+   UGJAPED
+       ↓
+ ┌─────┼─────┐
+ ↓     ↓     ↓
+BUY   RESELL  SELL
+       ↓
+    DELIVERY
+       ↓
+     RIDERS
 ```
 
-### 🔥 Technical Highlights
+### What I'm building
 
-* Asynchronous REST API development with **FastAPI**
-* Relational database design using **PostgreSQL / NeonDB**
-* Cloudinary integration for media storage
-* Multi-role authentication and authorization
-* Dynamic pricing and commission logic
-* Rider wallet and operational risk controls
-* Order broadcasting and delivery assignment
-* Admin and operational role management
+* 🌱 Hyperlocal plant marketplace
+* 🏪 Digital ecosystem for local nurseries & shops
+* ⚡ Same-day delivery infrastructure
+* 🔄 Peer-to-peer plant resale
+* 🛵 Rider delivery ecosystem
+* 💰 Dynamic pricing & commission engine
+* 🔐 Role-based platform architecture
+* ☁️ Cloud-based media infrastructure
+* 📦 Scalable backend architecture
 
----
-
-# 🧠 Machine Learning Project
-
-## 🩺 Health Disease Predictor
-
-A supervised machine-learning application designed to predict **20+ diseases from symptom patterns**.
-
-### Stack
+### Backend
 
 ```text
 Python
-│
-├── Pandas
-├── Scikit-learn
-└── Streamlit
+   ↓
+FastAPI
+   ↓
+PostgreSQL / NeonDB
+   ↓
+Cloudinary
+   ↓
+Render
+   ↓
+UGJAPED
 ```
 
-### Features
+### Founder Perspective
 
-* 🤖 Supervised Machine Learning
-* 📊 Data preprocessing
-* 🔎 Feature selection
-* 🧠 Classification
-* ⚡ Real-time prediction interface
-* 🌐 Streamlit deployment
+I'm not just writing the backend.
+
+I'm thinking about:
+
+**Product → Users → Operations → Logistics → Revenue → Scale**
+
+That's what makes UGJAPED more than just another coding project.
+
+🌐 **https://ugjaped.com**
 
 ---
 
-# 🛠️ Tech Stack
+# 🧠 DATA × TECHNOLOGY
 
-### 👨‍💻 Programming
+My core technical interests revolve around:
+
+```text
+              DATA
+                │
+        ┌───────┴───────┐
+        ↓               ↓
+   DATA SCIENCE      BACKEND
+        │               │
+        ↓               ↓
+ MACHINE LEARNING    FASTAPI
+        │               │
+        └───────┬───────┘
+                ↓
+             PRODUCTS
+```
+
+I enjoy working where **technical thinking meets real-world problems**.
+
+---
+
+# 🩺 HEALTH DISEASE PREDICTOR
+
+A supervised machine-learning project that predicts **20+ diseases based on symptom patterns**.
+
+### Stack
+
+`Python` • `Pandas` • `Scikit-learn` • `Streamlit`
+
+### What I worked on
+
+* Data preprocessing
+* Feature selection
+* Classification
+* Machine learning model development
+* Interactive prediction interface
+* Streamlit deployment
+
+---
+
+# 🛠️ TECHNOLOGY
+
+### Languages
 
 <p>
 <img src="https://skillicons.dev/icons?i=python" />
 </p>
 
-### 📊 Data Science & Machine Learning
+### Data & ML
 
 <p>
 <img src="https://skillicons.dev/icons?i=numpy,pandas,sklearn" />
 </p>
 
-### ⚡ Backend & Database
+### Backend
 
 <p>
 <img src="https://skillicons.dev/icons?i=fastapi,postgresql" />
 </p>
 
-### ☁️ Tools & Infrastructure
+### Tools & Infrastructure
 
 <p>
 <img src="https://skillicons.dev/icons?i=git,postman,render" />
@@ -161,7 +189,7 @@ Python
 
 ---
 
-# 📈 GitHub Analytics
+# 📊 GITHUB
 
 <div align="center">
 
@@ -179,107 +207,86 @@ Python
 
 ---
 
-# 💼 Experience
+# 🎓 CURRENT CHAPTER
 
-### 🔬 Data Science Intern — Alpha IT, Mohali
+### MCA — Data Science × IBM
 
-**Jan 2026 – Jun 2026**
+**CGC University, Mohali**
+
+Currently going deeper into:
+
+`Python` • `Data Science` • `Machine Learning` • `Backend Engineering`
+
+But the classroom is only one part of the journey.
+
+The real learning happens when I take an idea and try to make it work.
+
+---
+
+# 💼 EXPERIENCE
+
+### Data Science Intern — Alpha IT, Mohali
+
+`Jan 2026 – Jun 2026`
 
 Worked with:
 
-* Python
-* NumPy
-* Pandas
-* Matplotlib
-* Seaborn
-* Scikit-learn
-* Supervised & Unsupervised Learning
+`Python` • `NumPy` • `Pandas` • `Matplotlib` • `Seaborn` • `Scikit-learn`
 
 ---
 
-### 📊 Data Science Summer Training — Tech Live Solutions
+### Data Science Summer Training — Tech Live Solutions
 
-**Jun 2025 – Jul 2025**
+`Jun 2025 – Jul 2025`
 
 Worked on:
 
-* Data Analysis
-* Exploratory Data Analysis
-* Data Visualization
-* Python
-* Machine Learning
-* Real-world datasets
+`Python` • `EDA` • `Data Analysis` • `Visualization` • `Machine Learning`
 
 ---
 
-# 🎓 Education
+# 🎯 WHAT I'M CHASING
 
-### MCA — Data Science
+Not just another certificate.
 
-**CGC University, Mohali**
-*In association with IBM*
-`2026 – Present`
+Not just another project.
 
-### BCA
+Not just another line on a resume.
 
-**RIMT University**
-`2023 – 2026`
+I'm trying to become someone who can:
 
----
-
-# 🎯 Current Focus
-
-```text
-┌─────────────────────────────────────────────┐
-│                                             │
-│  🐍 Python                                  │
-│  🤖 Machine Learning                        │
-│  📊 Data Science                            │
-│  ⚡ FastAPI & Backend Engineering            │
-│  🗄️ PostgreSQL                              │
-│  🌱 UGJAPED                                 │
-│                                             │
-└─────────────────────────────────────────────┘
-```
+**See a problem → Understand it → Build the solution → Make it scale.**
 
 ---
-
-# 💭 My Developer Philosophy
-
-> **Learn → Build → Break → Fix → Repeat.**
-
-I believe the best way to learn technology is to build things that solve **real problems**.
-
----
-
-# 🤝 Let's Connect
 
 <div align="center">
 
+# I LEARN.
+
+# I BUILD.
+
+# I SOLVE.
+
+# I REPEAT.
+
+<br>
+
+### — Keshav Kumar
+
+**Founder • Developer • Data Science Enthusiast**
+
+<br>
+
 <a href="https://linkedin.com/in/heykeshavk">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
 <a href="mailto:heykeshavk@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
-</a>
-
-<a href="https://github.com/heykeshavk">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 
 <a href="https://ugjaped.com">
-<img src="https://img.shields.io/badge/UGJAPED-2E7D32?style=for-the-badge">
+<img src="https://img.shields.io/badge/UGJAPED-111111?style=for-the-badge">
 </a>
-
-</div>
-
----
-
-<div align="center">
-
-### 🚀 Building products. Learning constantly. Solving real problems.
-
-**Thanks for visiting my profile! ⭐**
 
 </div>
